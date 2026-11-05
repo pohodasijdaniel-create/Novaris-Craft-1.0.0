@@ -1,0 +1,27 @@
+{
+  "name": "Novaris Craft",
+  "version": "1.0.0",
+  "minecraftVersion": "1.21.11",
+  "loader": {
+    "name": "neoforge",
+    "version": "21.11.48"
+  },
+  "archive": {
+    "url": "https://github.com/pohodasijdaniel-create/Novaris-Craft-1.0.0/releases/download/%D0%97%D0%91%D0%9E%D0%A0%D0%9A%D0%90/Novaris.Craft.1.0.0.zip",
+    "sha256": "90ea5f5f1bffae36a444cfb7030e51690b42feda209d5673f4a0c20bb308aeab"
+  },
+  "files": [
+    {
+      "path": "mods/voicechat-neoforge-1.21.11-2.6.22.jar",
+      "sha256": "PENDING"
+    },
+    {
+      "path": "mods/xaeroworldmap-neoforge-1.21.11-1.45.0.jar",
+      "sha256": "PENDING"
+    },
+    {
+      "path": "mods/xaerominimap-neoforge-1.21.11-26.5.0.jar",
+      "sha256": "PENDING"
+    }
+  ]
+}
