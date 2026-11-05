@@ -13,15 +13,15 @@
   "files": [
     {
       "path": "mods/voicechat-neoforge-1.21.11-2.6.22.jar",
-      "sha256": "PENDING"
+      "sha256": "b4b2dfdad1854cba7efdd09dac7db00788c06ecfd7a1150e4c02447d600bfc62"
     },
     {
       "path": "mods/xaeroworldmap-neoforge-1.21.11-1.45.0.jar",
-      "sha256": "PENDING"
+      "sha256": "698ac26103bb4ca4b0d30bce80849698571df9fbb8d8007b25e36887e6e7eb9e"
     },
     {
       "path": "mods/xaerominimap-neoforge-1.21.11-26.5.0.jar",
-      "sha256": "PENDING"
+      "sha256": "40daaa8bc5c5e1e6f0a3f3c3bf29bc28246866cf9ae3ea97fb8ab5f617402c78"
     }
   ]
 }
